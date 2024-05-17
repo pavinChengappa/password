@@ -1,0 +1,91 @@
+/* #container{
+    background-color: blanchedalmond;
+    border: 3px solid rgb(0, 204, 255);
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(203, 140, 46);
+}
+a:active{
+    color: rgb(217, 22, 22);
+}
+ a:visited{
+    color: rgb(192, 247, 9);
+} 
+#Pointer{
+    cursor: pointer;
+}
+#help{
+    cursor: help;
+}
+#crosshair{
+    cursor: crosshair;
+}
+#move{
+    cursor: move;
+}
+#not-allowed{
+    cursor: not-allowed;
+}
+#text{
+    cursor: text;
+}
+#grabbing{
+    cursor: grabbing;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loader{
+    height: 190px;
+    width: 200px;
+    border: 2px solid rgb(202, 193, 193);
+    border-radius: 50%;
+    border-right-color: greenyellow ;
+    border-left-color: rgb(139, 200, 46);
+    animation: spin 0.7s ease infinite;
+}
+@keyframes spin{
+    100%{
+        transform: rotate(-360deg);
+    }
+} */
+
+/* video{
+    position:relative;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+h1{
+    mix-blend-mode: screen;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    font-size: 30vw;
+    top: 20px;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+} */
+button{
+    width: 150px;
+    background-color: brown;
+    color: beige;
+}
+input{
+    
+}
